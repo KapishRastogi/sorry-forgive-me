@@ -39,7 +39,7 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="my-4 text-4xl font-bold">
-            Thank you for forgiving me 🥺❤️ I promise I'll do better!
+            Thank you for forgiving me 🥺❤️ I promise I will be better , I LOVE YOU ALOT ❤️!
           </div>
         </>
       ) : (
